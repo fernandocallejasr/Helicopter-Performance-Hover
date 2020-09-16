@@ -1,8 +1,8 @@
-# Performance en Hover y Vuelo hacia Adelante de un Helicóptero
+# Performance in Hover anf forward flight of a Helicopter
 
 ---  
 
-PPrograms that allow you to obtain the performance parameters of a helicopter, vital for the design of these types of aircraft. It allows you to obtain a graph of the power requirements of a helicopter in Forward Flight and Hover, as well as obtain Data Frames of pandas, all this makes it a great visual tool.
+Programs that allow you to obtain the performance parameters of a helicopter, vital for the design of these types of aircraft. It allows you to obtain a graph of the power requirements of a helicopter in Forward Flight and Hover, as well as obtain Data Frames of pandas, all this makes it a great visual tool.
 
 ---
 
