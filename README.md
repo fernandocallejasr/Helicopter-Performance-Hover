@@ -1,15 +1,13 @@
 # Performance en Hover y Vuelo hacia Adelante de un Helicóptero
 
----
+---  
 
-## ¿Qué es?  
-
-Programas que te permiten obtener los parámetros de desempeño de un helicóptero, vitales para el diseño de estas aeronaves. Permite hacer gráficas de los requerimientos de potencia de un helicóptero en Vuelo hacia adelante y en Hover, así como obtener Data Frames de pandas, todo esto lo convierte en una gran herramienta visual.
+PPrograms that allow you to obtain the performance parameters of a helicopter, vital for the design of these types of aircraft. It allows you to obtain a graph of the power requirements of a helicopter in Forward Flight and Hover, as well as obtain Data Frames of pandas, all this makes it a great visual tool.
 
 ---
 
-## ¿Cómo usarlos?
+## How to get started
 
-Ambos programas están construidos de una forma modular basados en programación orientada a objetos (OOP), lo que hace muy fácil que estos se expandan con el tiempo.  
+Both programs are built in a modular way based on object-oriented programming (OOP), which makes it very easy for them to expand over time.
 
-Para usarlos debes crear objetos de la clase 'Hover' o 'Forward', estas cuentan con métodos que te permiten calcular y graficar los distintos parámetros de un helicóptero cuyas características se instancian en forma de un diccionario.
+To use them you must create objects of the class 'Hover' or 'Forward', these have methods that allow you to calculate and graph the different parameters of a helicopter whose characteristics are instantiated in the form of a dictionary.
