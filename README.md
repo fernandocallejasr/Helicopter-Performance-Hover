@@ -1,4 +1,4 @@
-# Performance in Hover anf forward flight of a Helicopter
+# Performance in Hover and forward flight of a Helicopter
 
 ---  
 
